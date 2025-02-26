@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'debug';
+    src: url('fonts/JetBrainsMono-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'debug', sans-serif;
+    background: #36454F;
+}
+details{
+    background: #202020;
+}
+span{
+    color: #bfa7a7;
+}
