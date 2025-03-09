@@ -11,7 +11,7 @@ trait HtmlTag {
 
     public function endHtml(){
         echo '
-            <link rel="stylesheet" href="../src/assets/app.css" >
+            <link rel="stylesheet" href="vendor/wordcoolframework/cool-dump/src/assets/app.css" >
             </body></html>
         ';
     }

@@ -118,7 +118,7 @@ final class CoolDump implements ICoolDump {
             $lineContent = htmlspecialchars($lines[$i]);
 
             if ($currentLine == $line) {
-                $html .= "<span style='background: #dc7070; padding: 3px; border-radius: 3px; color: white;'>$currentLine: $lineContent</span>\n";
+                $html .= "<span style='background: #403131; padding: 3px; border-radius: 3px; color: white;'>$currentLine: $lineContent</span>\n";
             } else {
                 $html .= "<span style='color: #f15b5b;'>$currentLine: </span>$lineContent\n";
             }
