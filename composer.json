@@ -1,7 +1,7 @@
 {
     "name": "wordcoolframework/cool-dump",
     "description": "CoolDump is Debug Tool",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "keywords": ["cool dump", "wtf", "cool dumper"],
     "license": "MIT",
