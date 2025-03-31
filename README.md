@@ -18,7 +18,7 @@ composer require cooldump/cooldump
 use CoolDump\CoolDump;
 
 $debugger = new CoolDump();
-$debugger->wc(["name" => "John", "age" => 30]);
+$debugger->wc(["name" => "Arash narimani", "age" => 23]);
 ```
 
 ## 🚀 Main Functions
@@ -28,7 +28,7 @@ $debugger->wc(["name" => "John", "age" => 30]);
 Displays data in either a web or CLI environment and stops script execution.
 
 ```php
-wc(["name" => "John", "age" => 30]);
+wc(["name" => "Arash narimani", "age" => 23]);
 ```
 
 ### `wcJson(...$data)`
@@ -36,7 +36,7 @@ wc(["name" => "John", "age" => 30]);
 Displays data in JSON output.
 
 ```php
-wcJson(["name" => "John", "age" => 30]);
+wcJson(["name" => "Arash narimani", "age" => 23]);
 ```
 
 ## 🎯 Features
