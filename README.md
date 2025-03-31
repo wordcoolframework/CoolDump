@@ -9,7 +9,7 @@ CoolDump is a tool for beautifully and understandably displaying data in both we
 To use CoolDump, first add it to your project:
 
 ```sh
-composer require cooldump/cooldump
+composer require wordcoolframework/cool-dump
 ```
 
 ### Usage in Project
